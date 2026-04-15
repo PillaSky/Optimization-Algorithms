@@ -1,3 +1,5 @@
 # Optimization-Algorithms
 
-WMMSE (Weighted Minimum mean square error)
+WMMSE (Weighted Minimum Mean Square Error)
+
+SCA (Successive Convex Approximation)
